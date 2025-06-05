@@ -1,16 +1,16 @@
-# 🚀 Teste - Front-end (Rethink3D)
+#  Teste - Front-end (Rethink3D)
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este teste foi desenvolvido para avaliar seus conhecimentos em **React Native**, utilizando **Expo** e **TypeScript**. O desafio consiste em criar uma aplicação mobile simples com **duas telas**:
 
-1.  **📝 Tela de Cadastro**
-    -   📸 Foto de perfil
-    -   🧑 Nome
-    -   📧 Email
-    -   🔒 Senha
+1.   **Tela de Cadastro**   
+    -    Foto de perfil   
+    -    Nome   
+    -    Email   
+    -    Senha   
 
-2.  **👤 Tela de Perfil**
+1.   **Tela de perfil**
     -   Exibir a **foto de perfil**, **nome**, **email** e **senha** fornecidos na tela de cadastro.
 
 ---
@@ -19,22 +19,22 @@ Este teste foi desenvolvido para avaliar seus conhecimentos em **React Native**,
 
 Para que sua solução seja considerada completa, ela deve atender aos seguintes critérios:
 
--   📝 **Formulário de Cadastro**
+-    **Formulário de Cadastro**
     -   Todos os campos são *obrigatórios*.
     -   Validação para impedir o envio caso algum campo esteja vazio.
     -   Feedback visual (como _border_ vermelha ou mensagem de erro) caso a validação falhe.
 
--   💾 **Armazenamento Local**
+-    **Armazenamento Local**
     -   Salvar os dados **localmente** no dispositivo.
     -   Garantir persistência ao reiniciar o app.
 
--   📱 **Tela de Perfil**
+-    **Tela de Perfil**
     -   Exibir corretamente **foto**, **nome**, **email** e **senha** salvos.
 
--   🔀 **Navegação**
+-    **Navegação**
     -   Navegação funcional entre **Tela de Cadastro** e **Tela de Perfil** (permitindo avançar ou retroceder para atualizar dados).
 
--   🔧 **Ferramentas**
+-    **Ferramentas**
     -   **React Native (Expo)**
     -   **TypeScript**
 
