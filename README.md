@@ -5,10 +5,10 @@
 Este teste foi desenvolvido para avaliar seus conhecimentos em **React Native**, utilizando **Expo** e **TypeScript**. O desafio consiste em criar uma aplicação mobile simples com **duas telas**:
 
 1.   **Tela de Cadastro**
-    -    Foto de perfil
+    -    Foto de perfil   
     -    Nome   
-    -    Email
-    -    Senha
+    -    Email   
+    -    Senha   
 
 1.   **Tela de perfil**
     -   Exibir a **foto de perfil**, **nome**, **email** e **senha** fornecidos na tela de cadastro.
