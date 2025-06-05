@@ -10,7 +10,7 @@ Este teste foi desenvolvido para avaliar seus conhecimentos em **React Native**,
     -    Email
     -    Senha
 
-2.  ** Tela de Perfil**
+2.  ** Tela de Perfil **
     -   Exibir a **foto de perfil**, **nome**, **email** e **senha** fornecidos na tela de cadastro.
 
 ---
