@@ -54,7 +54,7 @@ Para submeter sua solução, siga os passos abaixo:
 
 ## 🖼️ Protótipo Visual Recomendado
 
-Aqui está um protótipo visual para auxiliar na compreensão do layout das telas.
+Aqui está um protótipo visual para auxiliar na compreensão do layout das telas. Fique a vontade para aplicar seus estilos, expandir e melhorar.
 
 ![image](https://github.com/user-attachments/assets/1bf13dd9-02c8-42f2-850d-ac54b476a750)
 
