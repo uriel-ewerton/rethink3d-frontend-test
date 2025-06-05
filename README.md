@@ -6,7 +6,7 @@ Este teste foi desenvolvido para avaliar seus conhecimentos em **React Native**,
 
 1.   **Tela de Cadastro**
     -    Foto de perfil
-    -    Nome
+    -    Nome   
     -    Email
     -    Senha
 
